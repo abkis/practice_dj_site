@@ -1,0 +1,17 @@
+.button {
+  height: 200px;
+  width: 200px;
+  border: 2px solid aquamarine;
+  margin: 0 auto;
+  margin-bottom: 13px;
+  border-radius: 60px;
+  transition: 1s;
+}
+
+.button:hover {
+  background: purple;
+}
+
+.pushed {
+  background: lightBlue;
+}
